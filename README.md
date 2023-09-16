@@ -1,5 +1,5 @@
 TRY HERE :
-div9411.github.io/divBank/
+https://div9411.github.io/divBank/
 
 # divBank
 divBank is a fictional and minimalistic online banking application.
