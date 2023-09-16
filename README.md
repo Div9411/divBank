@@ -13,8 +13,11 @@ Password: 2222
 
 # Functionalities
 Login
+
 Transfer a value to another account
+
 Get loans
+
 Close (delete) account
 
 # Technologies Used
