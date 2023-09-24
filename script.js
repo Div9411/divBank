@@ -239,8 +239,7 @@ btnLogin.addEventListener('click', function (e) {
       year: 'numeric',
       // weekday: 'long',
     };
-    // const locale = navigator.language;
-    // console.log(locale);
+    
 
     labelDate.textContent = new Intl.DateTimeFormat(
       currentAccount.locale,
