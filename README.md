@@ -1,33 +1,40 @@
-TRY HERE :
-https://div9411.github.io/divBank/
+
 
 # divBank
+
 divBank is a fictional and minimalistic online banking application.
 
-#Login Details
-This is the template login details to use the bank functionality. The project does not include any backend and does not have an actual registration functionality. Make sure to use usernames are lowercase!
+## Try it here:
 
-Account 1 :
-Login: ds
-Password: 1111
+[divBank Demo](https://div9411.github.io/divBank/)
 
-...............................................................................................................................................................................................................
+## Login Details
 
-Account 2:
-Login: ww
-Password: 2222
+This is the template login details to use the bank functionality. The project does not include any backend and does not have an actual registration functionality. Make sure to use usernames in lowercase!
 
-.............................................................................................................................................................................................................
-# Functionalities
-Login
+### Account 1:
 
-Transfer a value to another account
+- **Login:** ds
+- **Password:** 1111
 
-Get loans
+---
 
-Close (delete) account
+### Account 2:
 
-# Technologies Used
-HTML
-CSS
-Vanilla JavaScript
+- **Login:** ww
+- **Password:** 2222
+
+---
+
+## Functionalities
+
+- **Login**
+- **Transfer a value to another account**
+- **Get loans**
+- **Close (delete) account**
+
+## Technologies Used
+
+- HTML
+- CSS
+- Vanilla JavaScript
